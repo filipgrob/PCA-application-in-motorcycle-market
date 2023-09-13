@@ -1,1 +1,2 @@
 # PCA-application-in-motorcycle-market
+This code was developed as homework in the course of Computational Linear Algebra for Large Scale Problems. It essentially simulate the situation where a company wants to analyze the market and identify meaningful profiles of products (in this case motorcycle market). In addition to the jupyter notebook and the converted pdf there are updated the task and the dataset in the material.
